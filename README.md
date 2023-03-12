@@ -2,8 +2,8 @@
 
 This web application is a real-time simulation of air traffic control using Java on the server side with the help of multithreading technology. It includes several tasks and algorithms such as Dijkstra's shortest path algorithm, building an API to get data from the server to the client as JSON, auto-weather handling, and a cool and simple design using the Canvas API.
 Experience the thrill of air traffic control in a real-time simulation with our cutting-edge web application. Developed using Java on the server side, our application leverages the power of multithreading technology to deliver a seamless and immersive experience.
-
-
+## Test
+https://user-images.githubusercontent.com/100499106/224567111-2d646e36-1f03-4557-9208-436f342d7b84.mp4
 ## Installation
 
 To install and run the application, follow these steps:
