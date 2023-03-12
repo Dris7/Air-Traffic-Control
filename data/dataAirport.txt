@@ -1,0 +1,9 @@
+madrid 579 352
+casablanca 579 382
+colombia 390 466
+newYork 351 370
+Riad 728 384
+Sundy 960 517
+Tokyo 998 357
+Cambridge 329 270
+Pretoria 677 559
